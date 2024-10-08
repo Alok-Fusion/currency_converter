@@ -55,6 +55,9 @@ The app is built using **Flutter**, an open-source UI toolkit created by Google.
 ![image](https://github.com/user-attachments/assets/9296bbe5-49ba-4c75-ab6c-f557aaf10c23)
 ![image](https://github.com/user-attachments/assets/af211fb5-f7ca-4983-9b27-676f7bd13a82)
 
+## Web View
+![image](https://github.com/user-attachments/assets/9c45e44e-c841-4c32-a339-6880cfb5ed81)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you find a bug or have a suggestion.
